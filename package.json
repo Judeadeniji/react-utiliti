@@ -12,10 +12,10 @@
   },
   "keywords": [
     "react",
-    "form",
+    "utility",
     "client",
-    "server",
-    "form-handling"
+    "UtilitiJs",
+    "store"
   ],
   "author": "Adeniji Oluwaferanmi",
   "license": "MIT",
