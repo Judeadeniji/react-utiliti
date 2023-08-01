@@ -1,0 +1,34 @@
+{
+  "name": "react-utiliti",
+  "version": "0.0.1",
+  "description": "A simple client side form handling library for React",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Judeadeniji/react-client-form.git"
+  },
+  "keywords": [
+    "react",
+    "form",
+    "client",
+    "server",
+    "form-handling"
+  ],
+  "author": "Adeniji Oluwaferanmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Judeadeniji/react-client-form/issues"
+  },
+  "homepage": "https://github.com/Judeadeniji/react-client-form#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "@types/react": "^18.2.16"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "utiliti-js": "^2.0.336"
+  }
+}

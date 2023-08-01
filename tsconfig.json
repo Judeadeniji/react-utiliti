@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "outDir": "dist",
+    "declarationDir": "dist/types",
+    "module": "commonjs",
+    "target": "es2022",
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "baseUrl": "."
+  },
+  "include": ["./index.ts", "src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules"]
+}
